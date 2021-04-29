@@ -4,8 +4,8 @@ body{
 }
 
 .container{
-    width:300px;
-    height:450px;
+    max-width:300px;
+    max-height:450px;
     margin:80px auto;
     border-radius:10px;
     background-color:rgb(214,214,214);
